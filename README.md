@@ -1,4 +1,5 @@
 ## Welcome to the Sazumi Cloud forum
+
 This repository was created as a technology Q&A forum. You can also discuss things that are not relevant to the topic.
 <hr>
 
