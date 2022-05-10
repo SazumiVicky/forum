@@ -1,11 +1,14 @@
-# Welcome to the Sazumi Cloud forum
-
-<p> このリポジトリは、テクノロジーに関する質疑応答フォーラムとして作成されました。トピックに関係のないことについて話し合うこともできます。 </p> [<b>Jp</b>]
-
+## Welcome to the Sazumi Cloud forum
+This repository was created as a technology Q&A forum. You can also discuss things that are not relevant to the topic.
 <hr>
 
-<p>This repository was created as a technology Q&A forum. You can also discuss things that are not relevant to the topic.</p> [<b>Eng</b>]
+Be sure to make inquiries inside [Category Q&A](https://github.com/SazumiVicky/forum/discussions/categories/q-a) in order to get an answer.
 
-<hr>
+## Rules That Must Be Obeyed
 
-<p>Repositori ini dibuat sebagai forum Tanya Jawab tentang teknologi. Anda juga bisa mendiskusikan hal-hal yang tidak relevan dengan topik.</p> [<b>Id</b>]
+- Don't Share Porn Activity
+- No bullying of forum visitors
+- Politeness
+- Help each other
+
+Also read the guide from [Github Comunity](https://docs.github.com/en/github/site-policy/github-community-guidelines).
